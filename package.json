@@ -1,0 +1,27 @@
+{
+  "name": "learnweb3io_delegatecall",
+  "version": "1.0.0",
+  "description": "in this project you can learn about delegatecall method in Solidity and its risks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jps80/learnweb3io_delegatecall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jps80/learnweb3io_delegatecall/issues"
+  },
+  "homepage": "https://github.com/jps80/learnweb3io_delegatecall#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "ethers": "^5.0.0"
+  }
+}
